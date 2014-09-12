@@ -1,0 +1,14 @@
+{
+  "name": "tilelive-rasterpbf",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Seth Fitzsimmons <seth@mojodna.net>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.9.0",
+    "protobufjs": "^3.6.0",
+    "require-env": "0.0.4",
+    "sphericalmercator": "^1.0.2"
+  }
+}
